@@ -29,4 +29,7 @@ ps:
 
 * 一个简单的实验 mobx [demo](https://liuuu.github.io/create-react-app-with-mobx/) [repo](https://github.com/liuuu/create-react-app-with-mobx)
 * 基于`github graphql API` 与`mobx` 的实验 [demo](http://github-graphql.surge.sh/) [repo](https://github.com/liuuu/github_graphql/tree/02_github_endpoint)
-* 模仿 slack 的[demo](http://slack-talk.surge.sh) [repo](https://github.com/liuuu/slack-client/tree/10_directMessage_subscription)
+
+## fanfou
+
+* 模仿 `fanfou` 的[demo](http://fanfou.surge.sh) [repo](https://github.com/liuuu/fanfou_client)
