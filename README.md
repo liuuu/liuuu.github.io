@@ -33,3 +33,8 @@ ps:
 ## fanfou
 
 * 模仿 `fanfou` 的[demo](http://fanfou.surge.sh) [repo](https://github.com/liuuu/fanfou_client)
+    - React
+    - Semantic-UI
+    - Graphql
+    - React-Apollo
+    - MongoDB
